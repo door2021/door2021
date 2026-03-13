@@ -12,8 +12,6 @@ I thrive on understanding complex problems, documenting clear solutions, and imp
 
 **Role:** Fullstack AI Engineer
 
-**Currently working on:** [ai_pr_reviewer](https://github.com/door2021/ai_pr_reviewer) - An AI-powered pull request review system
-
 ---
 
 ## 💻 Technical Skills
